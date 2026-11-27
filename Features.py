@@ -152,7 +152,7 @@ features = [
     {
         "id": "yolo",
         "icon": "🌐",
-        "title": "YOLOv8 Deep Learning Model",
+        "title": "YOLOv11 Deep Learning Model",
         "desc": "A modern, high-accuracy object-detection architecture.",
     },
     {
@@ -341,7 +341,7 @@ tech_stack = [
     },
     {
         "icon": "🧠",
-        "title": "YOLOv8",
+        "title": "YOLOv11",
         "desc": "Object-detection model for PPE recognition.",
     },
     {
