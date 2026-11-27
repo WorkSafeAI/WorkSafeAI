@@ -18,7 +18,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 st.markdown(
-    '<div style="text-align: center;"><div class="custom-team-badge" style="display: inline-block;">𓇲 COMPUTER VISION YOLOV11</div></div>',
+    '<div style="text-align: center;"><div class="custom-team-badge" style="display: inline-block;">🏼.COMPUTER VISION YOLOV11</div></div>',
     unsafe_allow_html=True,
 )
 
