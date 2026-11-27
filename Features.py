@@ -152,7 +152,7 @@ features = [
     {
         "id": "yolo",
         "icon": "🌐",
-        "title": "YOLOv11 Deep Learning Model",
+        "title": "YOLOv8 Deep Learning Model",
         "desc": "A modern, high-accuracy object-detection architecture.",
     },
     {
