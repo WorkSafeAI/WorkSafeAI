@@ -18,7 +18,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 st.markdown(
-    '<div style="text-align: center;"><div class="custom-team-badge" style="display: inline-block;">COMPUTER VISION YOLOV8</div></div>',
+    '<div style="text-align: center;"><div class="custom-team-badge" style="display: inline-block;">🏻 COMPUTER VISION YOLOV11</div></div>',
     unsafe_allow_html=True,
 )
 
@@ -56,7 +56,7 @@ st.write('-----------------')
 st.markdown(
     """
     <p style="text-align: center; font-size: 1.35rem; margin: 0 auto 2rem auto; line-height: 1.6;">
-        Using Computer Vision and YOLOv8 to automatically detect protective equipment like <br>
+        Using Computer Vision and YOLOv11 to automatically detect protective equipment like <br>
         helmets, safety vests in construction environments
     </p>
     """,
