@@ -91,7 +91,7 @@ st.markdown('<div class="custom-team-badge">ABOUT PROJECT</div>', unsafe_allow_h
 
 st.title('AI-powered PPE detection')
 st.title('for safer construction sites')
-st.write("WorkSafe AI is an AI-powered Personal Protective Equipment detection system that improves workplace safety using Computer Vision and YOLOv8 object detection.")
+st.write("WorkSafe AI is an AI-powered Personal Protective Equipment detection system that improves workplace safety using Computer Vision and YOLOv11 object detection.")
 
 import streamlit as st
 
@@ -199,7 +199,7 @@ with top_col2:
         <div class="icon-circle icon-blue">🎛️</div>
         <h3 class="card-title">Our Solution</h3>
         <p class="card-body">
-            WorkSafe AI applies a trained YOLOv8 deep-learning model to camera feeds and uploaded images, 
+            WorkSafe AI applies a trained YOLOv11 deep-learning model to camera feeds and uploaded images, 
             instantly identifying which protective equipment each worker is wearing — and flagging anyone 
             who is non-compliant.
         </p>
