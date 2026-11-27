@@ -91,7 +91,7 @@ st.markdown('<div class="custom-team-badge">ABOUT PROJECT</div>', unsafe_allow_h
 
 st.title('AI-powered PPE detection')
 st.title('for safer construction sites')
-st.write("WorkSafe AI is an AI-powered Personal Protective Equipment detection system that improves workplace safety using Computer Vision and YOLOv11 object detection.")
+st.write("WorkSafe AI is an AI-powered Personal Protective Equipment detection system that improves workplace safety using Computer Vision and YOLOv8 object detection.")
 
 import streamlit as st
 
